@@ -1,0 +1,2 @@
+# Converting Excel spreadsheets into Python code
+Many institutions still use Excel widely throughout their organizations. Forecasts, financial statements, business plans, pricing models, scenario analysis are often built and maintained as Excel spreadsheets. This format limits the benefits of using Generative AI. In this repo I demonstrate that Generative AI models can be used to convert Excel spreadsheets into Python code. This conversion enables organizations to unlock more benefits from Generative AI by converting legacy models and processes to Python at very low cost.
